@@ -12,6 +12,21 @@ _Project URL:_ [https://www.abbviecare.fr/](https://www.abbviecare.fr/)
 _Role:_ Lead Test Engineer
 <br>
 ![HomePage](AbbvieCare.png)
+
+_Tested Key Features:_ 
+ * Home Navigation
+ * Back To Top
+ * Sticky Navigation
+ * Search
+ * Search Result pagination
+ * Hero Component with different style,
+ * Video 
+ * Quiz Component
+ * Breadcrumb
+* Carousel with Image Component
+* Accordion
+* Responsive View [Mobile,Tablet, large screen]
+
 <br><br><br>
 # **AD Patient Activation**
 
