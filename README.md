@@ -1,5 +1,5 @@
 # Professional-Projects-Database
-<br><br>
+<br>
 
 # **AbbVie Care**
 
@@ -9,9 +9,8 @@ _Technology Used:_ AEM, AngularJS, Java, Javascript, HTL, Sling, JCR, Maven etc.
 
 _Project URL:_ [https://www.abbviecare.fr/](https://www.abbviecare.fr/)
 
-
 _Role:_ Lead Test Engineer
-
+<br>
 ![HomePage](AbbvieCare.png)
 <br><br><br>
 # **AD Patient Activation**
@@ -23,16 +22,9 @@ _Technology Used:_ AEM, AngularJS, Java, Javascript, HTL, Sling, JCR, Maven etc.
 _Project URL:_ [https://www.lets-talk-eczema.com/](https://www.lets-talk-eczema.com/)
 
 _Role:_ Lead Test Engineer
-
+<br>
 ![HomePage](letstalkeczema.png)
-
-
-
-
-
-
-
-
+<br><br><br>
 # **Project: Tale of Two Patient**
 
 _Project Background:_  The website provides a digital experience which illustrate the journey of two psoriasis patients from diagnosis through working with their doctor  to develop a management plan.
@@ -43,13 +35,9 @@ _Project URL:_ [https://www.let-me-be-clear.com/](https://www.let-me-be-clear.co
 
 
 _Role:_ Lead Test Engineer
-
+<br>
 ![HomePage](TOTP.jpg)
-
-
-
-
-
+<br><br><br>
 
 # **Project: TALK OVER RA**
 
@@ -59,9 +47,8 @@ _Technology Used:_ AEM, AngularJS, Java, Javascript, HTL, Sling, JCR, Maven, etc
 
 _Project URL:_ [https://www.talkoverra.com/au/en.html](https://www.talkoverra.com/au/en.html)
 
-
 _Role:_ Test Engineer
-
+<br>
 ![HomePage](TORA.png)
 
 
