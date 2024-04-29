@@ -10,7 +10,7 @@ _Technology Used:_ AEM, AngularJS, Java, Javascript, HTL, Sling, JCR, Maven etc.
 _Project URL:_ [https://www.abbviecare.fr/](https://www.abbviecare.fr/)
 
 _Role:_ Lead Test Engineer
-<br>
+<br><br>
 ![HomePage](AbbvieCare.png)
 
 _Tested Key Features:_ 
@@ -23,9 +23,9 @@ _Tested Key Features:_
  * Video 
  * Quiz Component
  * Breadcrumb
-* Carousel with Image Component
-* Accordion
-* Responsive View [Mobile,Tablet, large screen]
+ * Carousel with Image Component
+ * Accordion
+ * Responsive View [Mobile,Tablet, large screen]
 
 <br><br><br>
 # **AD Patient Activation**
@@ -37,8 +37,20 @@ _Technology Used:_ AEM, AngularJS, Java, Javascript, HTL, Sling, JCR, Maven etc.
 _Project URL:_ [https://www.lets-talk-eczema.com/](https://www.lets-talk-eczema.com/)
 
 _Role:_ Lead Test Engineer
-<br>
+<br><br>
 ![HomePage](letstalkeczema.png)
+
+_Tested Key Features:_ 
+ * Appointment planning tool: https://www.atopiskdermatit.se/tools-to-support-a-new-conversation/planning-your-next-appointment/appointment-preparation-tool.html
+ * Carousel Component
+ * Video Component
+ * Image component
+ * Hero Component with different style,
+ * Video 
+ * Quiz Component
+ * Breadcrumb
+ * Accordion
+ * Responsive View [Mobile,Tablet, large screen]
 <br><br><br>
 # **Project: Tale of Two Patient**
 
@@ -50,7 +62,7 @@ _Project URL:_ [https://www.let-me-be-clear.com/](https://www.let-me-be-clear.co
 
 
 _Role:_ Lead Test Engineer
-<br>
+<br><br>
 ![HomePage](TOTP.jpg)
 <br><br><br>
 
@@ -63,10 +75,12 @@ _Technology Used:_ AEM, AngularJS, Java, Javascript, HTL, Sling, JCR, Maven, etc
 _Project URL:_ [https://www.talkoverra.com/au/en.html](https://www.talkoverra.com/au/en.html)
 
 _Role:_ Test Engineer
-<br>
+<br><br>
 ![HomePage](TORA.png)
 
-
+_Tested Key Features:_ 
+ * Complete website animation and navigation, along with two patient stories and other components including responsive view.
+<br><br><br>
 
 
 
