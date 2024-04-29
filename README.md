@@ -58,12 +58,12 @@ _Project Background:_  The website provides a digital experience which illustrat
 
 _Technology Used:_ AEM, AngularJS, Java, Javascript, HTL, Sling, JCR, Maven, etc.
 
-_Project URL:_ [https://www.let-me-be-clear.com/](https://www.let-me-be-clear.com/pl/pl-pl.html)
-
-
 _Role:_ Lead Test Engineer
 <br><br>
 ![HomePage](TOTP.jpg)
+
+_Tested Key Features:_ 
+ * Complete website animation and navigation, along with two patient stories and other components including responsive view.
 <br><br><br>
 
 # **Project: TALK OVER RA**
@@ -78,8 +78,7 @@ _Role:_ Test Engineer
 <br><br>
 ![HomePage](TORA.png)
 
-_Tested Key Features:_ 
- * Complete website animation and navigation, along with two patient stories and other components including responsive view.
+
 <br><br><br>
 
 
