@@ -1,8 +1,5 @@
 # Professional-Projects-Database
-
-
-
-
+<br><br>
 
 # **AbbVie Care**
 
@@ -16,17 +13,7 @@ _Project URL:_ [https://www.abbviecare.fr/](https://www.abbviecare.fr/)
 _Role:_ Lead Test Engineer
 
 ![HomePage](AbbvieCare.png)
-
-
-
-
-
-
-
-
-
-
-
+<br><br><br>
 # **AD Patient Activation**
 
 _Project Background:_  AD Patient Activation aims to fill an important need for patients suffering from Atopic Dermatitis (AD), who often feel that they must undergo a prescribed treatment plan without question or complaint—even if it means powering through their symptoms. Despite the significant improvements made in the treatment of AD, many patients are still not achieving remission—or talking about their treatment goals with their HCPs. It aims to liberate all the energy pent up within patients and providers and channel it into constructive conversation.
